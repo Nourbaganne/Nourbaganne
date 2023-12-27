@@ -34,9 +34,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 🤔 I’m currently open for new internship/job opportunities, this is <a target='_bkank' href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
+- 🤔 I’m currently open for new internship/job opportunities, this is <a target='_blank' href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
 
-- 💥 You can visit <a target='_bkank' href='https://nour-portfolio.vercel.app/)'>MY WEBSITE<a/>
+- 💥 You can visit <a target='_blank' href='https://nour-portfolio.vercel.app'>MY WEBSITE<a/>
 
 - 📫 How to reach me **Bagannenour007@gmail.com**
 
