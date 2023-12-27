@@ -17,8 +17,6 @@
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
@@ -36,7 +34,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 🤔 I’m currently open for a new internship and job opportunity, this is <a href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
+- 🤔 I’m currently open for new internship/job opportunities, this is <a href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
 
 - 💥 You can visit <a href='https://nour-portfolio.vercel.app/)'>MY WEBSITE<a/>
 
