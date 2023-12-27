@@ -28,19 +28,20 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working at *[*Retain Health]([url](https://retainyourbrain.com/#!/))**
+- 🔭 I’m currently working at [Retain Health]([url](https://retainyourbrain.com/#!/))
 
-- 🌱 I’m currently learning **Devops**
+- 🏫 I am a Software engineering Student at EPI Digital School.
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 🏫 I am also follwing a master's degree in AI for Health Care AT ISIM Sfax.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 🌱 I’m currently learning **NextJs**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 🤔 I’m currently open for a new internship and job opportunity, this is MY RESUME.
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 💥 You can visit MY WEBSITE.
 
-- ⚡ Fun fact **I think I'm funny**
+- 📫 How to reach me **Bagannenour007@gmail.com**
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
