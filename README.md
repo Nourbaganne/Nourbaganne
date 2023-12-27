@@ -1,12 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <div align='center'>
-  <h1> Greetings! I'm Nour Baganne.</h1>
+  <h1> Greetings 👋! I'm Nour Baganne.</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA0E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Github+Profile;Software+Engineer+%40+Retain+Health" alt="Typing SVG" /></a>
 </div>
 
 
-
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
