@@ -38,7 +38,7 @@
 
 - 🤔 I’m currently open for a new internship and job opportunity, this is <a href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
 
-- 💥 You can visit [MY WEBSITE]([url](https://nour-portfolio.vercel.app/)).
+- 💥 You can visit <a href='https://nour-portfolio.vercel.app/)'>MY WEBSITE<a/>
 
 - 📫 How to reach me **Bagannenour007@gmail.com**
 
