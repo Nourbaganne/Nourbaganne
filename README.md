@@ -26,15 +26,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working at [Retain Health]([url](https://retainyourbrain.com/#!/))
+- 🔭 Currently working at [Retain Health]([url](https://retainyourbrain.com/#!/))
 
-- 🏫 I am a Software engineering Student at EPI Digital School.
+- 🏫 A Software engineering Student at EPI Digital School.
 
-- 🏫 I am also follwing a master's degree in AI for Health Care AT ISIM Sfax.
+- 🏫 Follwing a master's degree in AI for Health Care AT ISIM Sfax.
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 Currently learning **NextJs**
 
-- 🤔 I’m currently open for new internship/job opportunities, this is <a target='_blank' href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
+- 🤔 Open for new internship/job opportunities, this is <a target='_blank' href='https://drive.google.com/file/d/103x6_u3WONPqZbHF3G7lBVouLErj9xjh/view?usp=drive_link'>MY RESUME</a>.
 
 - 💥 You can visit <a target='_blank' href='https://nour-portfolio.vercel.app'>MY WEBSITE<a/>
 
